@@ -1,0 +1,36 @@
+@media only screen and (min-width: 768px) {
+    .proddec {
+        position: fixed;
+        margin-left: 12em;
+        margin-top: 2.5em;
+        width: 40em;
+        height: 40em;
+    }
+
+    .inaguration {
+        width: 1024px;
+        height: 768px;
+        object-fit: fill;
+    }
+
+
+}
+
+
+
+@media only screen and (min-width: 1200px) {
+
+    .proddec {
+        position: fixed;
+        margin-left: 24em;
+        margin-top: 2.5em;
+        width: 46em;
+        height: 46em;
+    }
+
+    .inaguration {
+        height: 100%;
+        width: 100%;
+        object-fit: fill;
+    }
+}
