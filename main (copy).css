@@ -19,7 +19,13 @@
     #headings{
         position:relative ; background-color: rgba(240, 255, 255, 0);;width: 98.3%;height: 10%;border-radius: 500px;border-style: double;border-width: 10px;border-color: rgba(45, 185, 255, 0.349);
     }
-
+    .prodec-logo {
+        width: 7em;
+        height: 7em;
+        right: 0%;
+        position: absolute;
+        top: 1%
+    }
 
 
     .logo-class {
